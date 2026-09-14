@@ -24,6 +24,7 @@ Stop you from launching the game via the Roblox App
 Stop you from joining through friends
 Stop you from starting the Roblox App with parameters to join the game.
 Why?
+Fix your lack of maidens
 Because this is an extension.
 
 # It can read my browsing history!
