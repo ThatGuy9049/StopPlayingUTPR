@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "Stop Playing UTPR",
+  "version": "1.1.1",
+  "description": "Closes any tabs of UTPR you open to stop you from compulsively playing the game again.",
+  "permissions": [
+    "tabs",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://www.roblox.com/*"
+  ],
+  "icons": {
+    "16": "thumb.png",
+    "48": "thumb.png",
+    "128": "thumb.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "thumb.png",
+      "48": "thumb.png",
+      "128": "thumb.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
