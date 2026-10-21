@@ -9,6 +9,9 @@ Instantly closing any tab opening [Undertale Test Place Reborn](https://www.robl
 
 #  Key Features 
 
+# REAL rage system!
+The rage system will detect when you open the tab, while being held in a combo, it will actually GO OFF on YOU! instead of the extension! This solidifies the realism of the extension by further incorporation features that UTPR had!
+
 Checks Game ID 
 Gives motivational message telling you to stop trying to play!
 Fully Local!
@@ -33,6 +36,9 @@ you can:
 Take the source
 Read it
 See clearly what its doing
-
+# Balance Requests
+Dont worry, we will take all requests of balancing the extension, and throw it in the #Trash!
+Why?
+To be just like the UTPR balance team!
 # And let me be real with you...
 Yes, this README is a near 1:1 of the original StopPlayingUCDR!
