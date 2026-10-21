@@ -9,12 +9,12 @@ Instantly closing any tab opening [Undertale Test Place Reborn](https://www.robl
 
 #  Key Features 
 
-# REAL rage system!
-The rage system will detect when you open the tab, while being held in a combo, it will actually GO OFF on YOU! instead of the extension! This solidifies the realism of the extension by further incorporation features that UTPR had!
-
 Checks Game ID 
 Gives motivational message telling you to stop trying to play!
 Fully Local!
+
+# REAL rage system!
+The rage system will detect when you open the tab, while being held in a combo, it will actually GO OFF on YOU! instead of the extension! This solidifies the realism of the extension by further incorporation features that UTPR had!
 
 # Why?
 No one likes the state of game, and
